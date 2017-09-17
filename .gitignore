@@ -5,7 +5,7 @@
 /Assets/LuaFramework/ToLua/Source/Generate.meta
 /Assets/StreamingAssets/
 /Assets/StreamingAssets.meta
-/luaframework/
+/app/
 *.csproj
 *.sln
 *.userprefs
